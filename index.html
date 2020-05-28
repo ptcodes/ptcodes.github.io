@@ -13,7 +13,10 @@ layout: default
         </div>
       </a>
       <div class="entry">
+        {% if false %}
         {{ post.excerpt }}
+        {% endif %}
+        {{ post.content | split: '<!-- more -->' | first }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>

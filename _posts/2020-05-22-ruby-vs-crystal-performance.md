@@ -12,6 +12,8 @@ What is Crystal? It's a statically type, compiled, object-oriented language with
 
 The promise on its site is that the language is fast as C, sleek as Ruby. This statement sounds exciting and makes you want to check how fast Crystal is comparing to Ruby. Of course, it won't be a fair comparison since one is a compiled language and another is an interpreted one (the Ruby MRI implementation used below).
 
+<!-- more -->
+
 The installation process on MacOS is trivial with Homebrew:
 ```
 brew install crystal

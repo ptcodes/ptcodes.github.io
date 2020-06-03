@@ -144,4 +144,4 @@ Output:
 
 And you can see your domain there.
 
-It turns out it's pretty convenient to register domain names from the command lines. It's easy to wrap commands in shell scripts to simplify the further usage.
+It turns out it's pretty convenient to register domain names from the command lines. It's easy to wrap commands in shell scripts to simplify further usage.

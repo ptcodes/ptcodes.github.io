@@ -4,7 +4,7 @@ title: Domain Registration with Amazon Route 53 using AWS CLI
 categories: [Amazon,AWS,Route 53,awscli]
 ---
 
-Amazon Route 53 provides highly available and scalable Domain Name System (DNS), domain name registration, and health-checking web services.
+[Amazon Route 53](https://aws.amazon.com/route53/) provides highly available and scalable Domain Name System (DNS), domain name registration, and health-checking web services.
 You can register a domain name in different TLDs such as .com or .net. There are two ways of doing so: using the web interface or command line. 
 I'm going to use the latter in this blog post.
 
@@ -144,4 +144,4 @@ Output:
 
 And you can see your domain there.
 
-It turns out it's pretty convenient to register domain names from the command lines. It's easy to wrap commands in shell scripts to simply the further usage.
+It turns out it's pretty convenient to register domain names from the command lines. It's easy to wrap commands in shell scripts to simplify the further usage.

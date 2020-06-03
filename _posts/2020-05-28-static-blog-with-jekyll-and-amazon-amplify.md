@@ -41,7 +41,7 @@ jekyll new my-awesome-site
 
 ## Prerequirements
 
-Alright, we still need to do a couple of things. Please create a git repository with your Jekyll site. Amazon Amlify works with Github, Gitlab, Bitbucket and private git repositories.
+Alright, we still need to do a couple of things. Please create a git repository with your Jekyll site. Amazon Amplify works with Github, Gitlab, Bitbucket and private git repositories.
 
 Please add a file called amplify.yml with the followent content:
 
@@ -163,9 +163,9 @@ Output:
 }
 ```
 
-Amazon will create and configure an SSL certificate for your site, verify ownership of the domain and propogate it to the Amazon Global CDN. The whole process takes around 10-15 minutes. You can use the same command to see the current status (look at the domainStatus value).
+Amazon will create and configure an SSL certificate for your site, verify ownership of the domain and propagate it to the Amazon Global CDN. The whole process takes around 10-15 minutes. You can use the same command to see the current status (look at the domainStatus value).
 
-And finally to deploy our blog we should either start the deployment explicitly:
+And finally to deploy our blog we can either start the deployment process explicitly:
 ```bash
 aws amplify start-deployment --app-id d3lrx2kfkglii \
   --branch-name master \
@@ -181,11 +181,11 @@ To see a list of applications (along with their ids) under your account:
 aws amplify list-apps --region us-east-1
 ```
 
-Deploy a particular branch:
+To deploy a particular branch:
 ```bash
  aws amplify start-deployment --app-id d3lrx2kfkglii \
  --branch-name master \
  --region us-east-1
 ```
 
-Alright, with a few simples steps we got our website up and running. We can add new posts and pages by simple adding respective files to the git repository.
+Alright, with a few steps we got our website up and running. We can add new posts and pages by simply adding files to the git repository.

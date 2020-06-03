@@ -27,7 +27,7 @@ Amplify is very cheap. If you use it for a personal blog with low traffic you ge
 
 ## Jekyll
 
-This blog is based on Jekyll which is a simple static site generator for personal, project, or organization sites. It's written in the Ruby language.
+This blog is based on [Jekyll](https://jekyllrb.com/) which is a simple static site generator for personal, project, or organization sites. It's written in the Ruby language.
 
 And if you have Ruby installed on your machine you can install Jekyll like this:
 ```bash

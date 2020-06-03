@@ -41,6 +41,9 @@ When you register a domain name you are required to provide name contacts such o
 
 ```json
 {
+    "DomainName": "ptimofeev.com",
+    "DurationInYears": 1,
+    "AutoRenew": true,
     "AdminContact": {
         "FirstName": "Martha",
         "LastName": "Rivera",
@@ -90,11 +93,8 @@ When the file is updated with our details we can run (please pay attention that 
 
 ```bash
 aws route53domains register-domain \
-    --domain-name ptimofeev.com \
-    --duration-in-years 1 \
-    --auto-renew \ 
-    --region us-east-1 \
-    --cli-input-json file://register-domain.json
+    --cli-input-json file://register-domain.json \
+    --region us-east-1
 ```
 
 Output:
@@ -109,8 +109,8 @@ But when checking whether the domain is still available you will see that it is 
 
 ```bash
 aws route53domains check-domain-availability \
-    --region us-east-1 \
-    --domain-name ptimofeev.com
+    --domain-name ptimofeev.com \
+    --region us-east-1
 ```
 
 Output:
@@ -142,5 +142,6 @@ Output:
 }
 ```
 
-And see your domain there.
+And you can see your domain there.
 
+It turns out it's pretty convenient to register domain names from the command lines. It's easy to wrap commands in shell scripts to simply the further usage.

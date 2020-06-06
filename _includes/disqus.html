@@ -3,8 +3,13 @@
 	<div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.url | absolute_url }}';
+      {% if this.page.url == 'https://ptimofeev.com/ruby-vs-crystal-performance/';
+        this.page.url = 'https://ptimofeev.com';
+        this.page.identifier = 'ptimofeev.com';
+      {% else %}
+        this.page.url = '{{ page.url | absolute_url }}';
+        this.page.identifier = '{{ page.url | absolute_url }}';
+      {% endif %}
     };
     (function() { // DON'T EDIT BELOW THIS LINE
       var d = document, s = d.createElement('script');

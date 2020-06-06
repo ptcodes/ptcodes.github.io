@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Ruby vs Crystal Performance
+title:  Ruby vs Crystal Performance Comparison
 categories: [Ruby,Crystal,Performance]
 excerpt: I've been hearing about the Crystal programming language here and there over the last couple of years but never had a chance to give it a look until yesterday. What is Crystal? It's a statically type, compiled, object-oriented language with syntax heavily inspired by Ruby's.
 
 ---
+*You can join the discussion on HackerNews [here](https://news.ycombinator.com/item?id=23431941).*
 
 I've been hearing about the [Crystal programming language](https://crystal-lang.org/) here and there over the last couple of years but never had a chance to give it a look until yesterday.
 
@@ -67,7 +68,7 @@ end
 puts fibonacci(46)
 ```
 
-Results on my machine:
+Results on my machine (MacBook Pro 2.2 GHz Intel Core i7):
 
 |**Language**                               |**Run time**    | **Memory usage**
 |Ruby 2.6.5p114 (2019-10-01 revision 67812) |1:54.46 minutes |16.1M

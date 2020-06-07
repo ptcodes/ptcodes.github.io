@@ -70,9 +70,9 @@ puts fibonacci(46)
 
 Results on my machine (MacBook Pro 2.2 GHz Intel Core i7):
 
-|**Language**                               |**Run time**    | **Memory usage**
-|Ruby 2.6.5p114 (2019-10-01 revision 67812) |1:54.46 minutes |16.1M
-|Crystal 0.34.0 (2020-04-07)                |12.617 seconds  |1.87M
+| **Language**                               | **Run time**    | **Memory usage**
+| Ruby 2.6.5p114 (2019-10-01 revision 67812) | 1:54.46 minutes | 16.1M
+| Crystal 0.34.0 (2020-04-07)                | 12.617 seconds  | 1.87M
 
 The Crystal version is 11 times faster.
 

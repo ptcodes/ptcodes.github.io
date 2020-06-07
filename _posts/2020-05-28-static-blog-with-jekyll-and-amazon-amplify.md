@@ -24,7 +24,6 @@ Amplify is very cheap. If you use it for a personal blog with low traffic you ge
 | 15 GB served per month  | $0.15 per GB served |
 | The free tier expires at the end of your 12 month AWS Free Tier term. | Multiple sites per project, public SSL certificates included at no extra cost |
 
-
 ## Jekyll
 
 This blog is based on [Jekyll](https://jekyllrb.com/) which is a simple static site generator for personal, project, or organization sites. It's written in the Ruby language.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Top Command Line Tools for Development and Fun
+description: An overview of command line tools for software development and entertainment`:` homebrew, tldr, ag, tig, tree, curl, httpie, js, glances, wrk, youtube-dl and cmus.
 categories: [homebrew, tldr, ag, tig, tree, curl, httpie, jq, glances, wrk, youtube-dl, cmus, cli]
 ---
 
@@ -49,7 +50,7 @@ Output:
 
 ## ag
 
-[ag](https://geoff.greer.fm/ag/) aka The Silver Searcher is a tool for searching code.
+[ag](https://geoff.greer.fm/ag/) also known as The Silver Searcher is a tool for searching code.
 
 I've been using [ack](https://beyondgrep.com/) for years but recently switched to ag as it works much faster (34 times in some tests). 
 
@@ -76,7 +77,7 @@ tig is super fast and it's easy to navigate around.
 ## tree
 
 [tree](http://mama.indstate.edu/users/ice/tree/) is a great little tool that prints content of directories in a tree like structure format.
-I like to use it to get a quick overview of an unfamiliar project, for example, when I clone something from Github.
+I like to use it to get a quick overview of an unfamiliar project, for example, when I clone a new repository from Github.
 
 For example, let's print directories only up to 3 levels of depth:
 ```bash
@@ -87,10 +88,10 @@ Output:
 
 ## curl / httpie
 
-[curl](https://curl.haxx.se/) is a command-line HTTP client. It's oldie but goodie and there are some modern alternatives with colorful output and which are probably more user friendly (see the list below). 
+[curl](https://curl.haxx.se/) is a command-line HTTP client. It's oldie but goodie. There are some modern alternatives with colorful output and which are probably more user friendly (see the list below). 
 I have them installed on my machine but always forget to use in favor to curl.
 
-A few curl commands I use often:
+A few curl commands I frequently use:
 
 See your public ip address:
 ```bash
@@ -115,9 +116,9 @@ Modern alternatives:
 
 [jq](https://stedolan.github.io/jq/) is a lightweight and flexible command-line JSON processor.
 
-jq is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
+It's like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
 
-It plays nicely with curl.
+And it plays nicely with curl.
 
 GitHub has a JSON API, we can get the latest commit from the Ruby on Rails repository and feed it to jq:
 ```bash
@@ -127,7 +128,7 @@ curl https://api.github.com/repos/rails/rails/commits?per_page=1 | jq
 Output:
 ![jq](/images/jq.png)
 
-Now, let's extract the message of the commit:
+With jq we can easily extract the message from the commit:
 ```bash
 curl https://api.github.com/repos/rails/rails/commits?per_page=1 | jq '.[0] | .commit.message'
 ```
@@ -166,7 +167,7 @@ refresh=1
 
 It's capable of generating significant load when run on a single multi-core CPU.
 
-For example, let's run a benchmark for 60 seconds, using 8 thread, and keeping 400 HTTP connections open against a simple HTTP server implemented in Go:
+For example, we can run a benchmark for 60 seconds, using 8 thread, and keeping 400 HTTP connections open against a simple HTTP server implemented in Go:
 ```bash
 wrk -t8 -c400 -d60s http://localhost:8080/hello
 ```
@@ -184,33 +185,33 @@ Requests/sec:  69757.81
 Transfer/sec:      8.91MB
 ```
 
-## Youtube-dl
+## youtube-dl
 
 [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) allows you to download videos from YouTube and [many](https://ytdl-org.github.io/youtube-dl/supportedsites.html) other sites.
 
 It has multiple options, supports playlists, can extract audio, download subtitles.
 
-A typical scenario for me is to download videos when we plan a long trip where we might have no Internet connection and to put them on iPad via iTunes. This works great as I don't really watch movies on a plane but Youtube has plenty of screencasts and educational materials.
+A typical scenario for me is to download videos when we plan a long trip where we might have no Internet connection and to put them on iPad via iTunes. This works great as I don't really watch movies on a plane but YouTube has plenty of screencasts and educational materials.
 
-Another case is when I go for a run and want to listen to a Youtube video. It turns out the visual part doesn't play a huge role and you can simply listen to many videos.
+Another case is when I go for a run and want to listen to a YouTube video. It turns out the visual part doesn't play a huge role and you can simply listen to many videos.
 
-youtube-dl can work with Youtube urls but I find it easier to supply it with video ids. This is the part that goes after ?v=. For example: _grnQ46lNDAc_ in the following video:
+youtube-dl can work with YouTube urls but I find it easier to supply it with video ids. This is the part that goes after ?v=. For example: _grnQ46lNDAc_ in the following video:
 https://www.youtube.com/watch?v=grnQ46lNDAc
 
 Some commands:
 
-Download a Youtube video in the mp4 format:
+Download a video in the mp4 format:
 ```bash
 youtube-dl grnQ46lNDAc 
 ```
 
-Download video, extract audio and save in the mp3 format:
+Download a video, extract audio and save it in the mp3 format:
 ```bash
 youtube-dl -extract-audio \
     --audio-format mp3 UtF6Jej8yb4
 ```
 
-Download video, extract audio and save in the mp3 format with meta data:
+Download a video, extract audio and save it in the mp3 format with meta data:
 ```bash
 youtube-dl --extract-audio \
     --audio-format mp3 \
@@ -222,7 +223,7 @@ youtube-dl --extract-audio \
 
 [cmus](https://cmus.github.io/) is small, fast and powerful console music player.
 
-I could never get used to iTunes on Mac or any other Desktop music player but cmus works just great for me -- it's light, has a clean interface, Vim key bindings, has many options and supports multiple music formats.
+I could never get used to iTunes on Mac or any other Desktop music player but cmus does a great job for me -- it's light, has a clean interface, Vim key bindings, with many options and supports multiple music formats.
 
 ![cmus](/images/cmus.png)
 

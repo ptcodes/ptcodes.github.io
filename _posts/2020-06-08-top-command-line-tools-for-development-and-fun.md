@@ -7,7 +7,7 @@ categories: [homebrew, tldr, ag, tig, tree, curl, httpie, jq, glances, wrk, yout
 
 As a software developer I love working in the terminal where I do most of my work.
 
-iTerm, zsh, vim, tmux became my favorite tools but there are many others I use pretty much on a daily basis. 
+iTerm2, zsh, vim, tmux became my favorite tools but there are many others I use pretty much on a daily basis. 
 
 Let's take a look at some of them.
 
@@ -54,7 +54,7 @@ Output:
 
 I've been using [ack](https://beyondgrep.com/) for years but recently switched to ag as it works much faster (34 times in some tests). 
 
-For example, use it to list files in the current directory that contain printf:
+For instance, use it to list files in the current directory that contain the printf function:
 ```bash
 ag -l printf
 ```
@@ -79,7 +79,7 @@ tig is super fast and it's easy to navigate around.
 [tree](http://mama.indstate.edu/users/ice/tree/) is a great little tool that prints content of directories in a tree like structure format.
 I like to use it to get a quick overview of an unfamiliar project, for example, when I clone a new repository from Github.
 
-For example, let's print directories only up to 3 levels of depth:
+To illustrate its output we can print only directories up to 3 levels of depth:
 ```bash
 tree -d -L 3
 ```
@@ -153,7 +153,7 @@ You can install additional plugins to monitor a bunch of other things.
 Here is how it looks:
 ![glances](/images/glances.png)
 
-You can set up monitoring for certain processes. For examples, to monitor Ruby applications create ~/glances.ini with the following content:
+You can set up monitoring for specific processes. For instance, to monitor Ruby applications create ~/glances.ini with the following content:
 ```bash
 [amp_ruby]
 enable=true
@@ -223,14 +223,14 @@ youtube-dl --extract-audio \
 
 [cmus](https://cmus.github.io/) is small, fast and powerful console music player.
 
-I could never get used to iTunes on Mac or any other Desktop music player but cmus does a great job for me -- it's light, has a clean interface, Vim key bindings, with many options and supports multiple music formats.
+I could never get used to iTunes on Mac or any other Desktop music player but cmus does a great job for me -- it's light, has a clean interface, vim key bindings, with many options and supports multiple music formats.
 
 ![cmus](/images/cmus.png)
 
 To start using it go to the folder with your music files and type `cmus`
 Then `:add .` to add music form the current directory.
 
-As mentioned above you can use Vim key bindings to navigate around. 
+As mentioned above you can use vim key bindings to navigate around. 
 
 A few useful keys:
 ```

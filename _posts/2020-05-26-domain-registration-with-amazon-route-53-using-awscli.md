@@ -2,6 +2,7 @@
 layout: post
 title: Domain Registration with Amazon Route 53 using AWS CLI
 categories: [Amazon,AWS,Route 53,awscli]
+image: /images/social/route53.png
 ---
 
 [Amazon Route 53](https://aws.amazon.com/route53/) provides highly available and scalable Domain Name System (DNS), domain name registration, and health-checking web services.

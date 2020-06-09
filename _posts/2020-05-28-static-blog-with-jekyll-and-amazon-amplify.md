@@ -2,6 +2,7 @@
 layout: post
 title: Static Blog with Jekyll and Amazon Amplify
 categories: [Amazon,AWS,Amplify,awscli]
+image: /images/social/amplify.png
 ---
 
 [AWS Amplify](https://aws.amazon.com/amplify/) is a development platform for building secure, scalable mobile and web applications. Amplify covers the complete application development workflow from version control, code testing, to production deployment, and it easily scales with your business from thousands of users to tens of millions. 

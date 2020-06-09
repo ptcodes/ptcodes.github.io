@@ -3,6 +3,7 @@ layout: post
 title: Top Command Line Tools for Development and Fun
 description: An overview of command line tools for software development and entertainment`:` homebrew, tldr, ag, tig, tree, curl, httpie, js, glances, wrk, youtube-dl and cmus.
 categories: [homebrew, tldr, ag, tig, tree, curl, httpie, jq, glances, wrk, youtube-dl, cmus, cli]
+image: /images/social/homebrew.png
 ---
 
 As a software developer I love working in the terminal where I do most of my work.

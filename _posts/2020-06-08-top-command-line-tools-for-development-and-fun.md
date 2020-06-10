@@ -6,6 +6,8 @@ categories: [homebrew, tldr, ag, tig, tree, curl, httpie, jq, glances, wrk, yout
 image: /images/social/homebrew.png
 ---
 
+![Top Command Line Tools](/images/top-command-line-tools.png)
+
 As a software developer I love working in the terminal where I do most of my work.
 
 iTerm2, zsh, vim, tmux became my favorite tools but there are many others I use pretty much on a daily basis. 

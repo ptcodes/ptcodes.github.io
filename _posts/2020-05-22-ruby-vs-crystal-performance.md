@@ -5,6 +5,9 @@ categories: [Ruby,Crystal,Performance]
 excerpt: I've been hearing about the Crystal programming language here and there over the last couple of years but never had a chance to give it a look until yesterday. What is Crystal? It's a statically type, compiled, object-oriented language with syntax heavily inspired by Ruby's.
 image: /images/social/crystal-lang.png
 ---
+
+![Ruby vs Crystal](/images/ruby-vs-crystal.png)
+
 *You can join the discussion on HackerNews [here](https://news.ycombinator.com/item?id=23431941).*
 
 I've been hearing about the [Crystal programming language](https://crystal-lang.org/) here and there over the last couple of years but never had a chance to give it a look until yesterday.

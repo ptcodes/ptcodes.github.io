@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Go vs Crystal Performance
-categories: [Go,Crystal,Performance]
+categories: [Go,Crystal,Performance,wrk]
+image: /images/social/crystal-lang.png
 ---
 
 ![Go vs Crystal](/images/go-vs-crystal.png)

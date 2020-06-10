@@ -90,7 +90,7 @@ Also, not in this particular example, but generally Go's compilation time is muc
 
 ## HTTP Server
 
-Now, let's create a simple HTTP server using standard libraries. Both Go's _net/http_ and Crystal's _http/server_ employ concurrency: Go uses goroutins and Crystal uses fibers.
+Now, let's create a simple HTTP server using standard libraries. Both Go's _net/http_ and Crystal's _http/server_ employ concurrency: Go uses goroutines and Crystal uses fibers.
 
 Go version:
 ```go

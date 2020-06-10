@@ -73,8 +73,8 @@ puts fibonacci(47)
 Results on my machine (MacBook Pro 2.2 GHz Intel Core i7):
 
 | **Language** | **Binary size** | **Run time** | **Memory usage**
-| go      | 418k | 21.28s | 2.01M
-| Crystal | 2.1M | 19.69s | 1.72M
+| go      | 2.1M | 21.28s | 2.01M
+| Crystal | 418k | 19.69s | 1.72M
 
 Crystal is slightly winning here. 
 

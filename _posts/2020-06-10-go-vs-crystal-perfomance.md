@@ -63,7 +63,7 @@ Crystal version:
 ```crystal
 def fibonacci(n : UInt32)
   return n if n < 2
-fibonacci(n-1) + fibonacci(n-2)
+  fibonacci(n-1) + fibonacci(n-2)
   end
 
 puts fibonacci(47)
@@ -159,9 +159,11 @@ Transfer/sec:      8.56MB
 
 Results:
 
-| **Language**                     | **Binary size** | **Memory usage** | **CPU usage** | **Throughput**
+| **Language** | **Binary size** | **Memory usage** | **CPU usage** | **Throughput**
 | go | 7.4M | 20.2M | 300% | 69,757
 | Crystal | 966kb | 19.1M | 99% | 83,917
+
+Crystal again shows better results.
 
 CPU utilization over 100% in the table might seem confusing. But it simply means the system uses multiple cores. One core at max is 100%. 
 

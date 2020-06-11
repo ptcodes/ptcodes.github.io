@@ -11,7 +11,6 @@ It's a follow up post to the previous [Ruby vs Crystal Performance](/ruby-vs-cry
 
 I guess this time it will be a fair performance comparison as both languages are compiled and statically typed.
 
-
 We will perform a couple of tests:
 * Finding a number in the Fibonacci sequence as in the previous post
 * Running an HTTP server locally and performing benchmarks with wrk
@@ -73,8 +72,8 @@ puts fibonacci(47)
 Results on my machine (MacBook Pro 2.2 GHz Intel Core i7):
 
 | **Language** | **Binary size** | **Run time** | **Memory usage**
-| go      | 2.1M | 21.28s | 2.01M
-| Crystal | 418k | 19.69s | 1.72M
+| go       | 2.1M        | 21.28s   | 2.01M
+| Crystal  | 418k        | 19.69s   | 1.72M
 
 Crystal is slightly winning here. 
 
@@ -161,8 +160,8 @@ Transfer/sec:      8.56MB
 Results:
 
 | **Language** | **Binary size** | **Memory usage** | **CPU usage** | **Throughput**
-| go | 7.4M | 20.2M | 300% | 69,757
-| Crystal | 966kb | 19.1M | 99% | 83,917
+| go       | 7.4M        | 20.2M        | 300%      | 69,757
+| Crystal  | 966kb       | 19.1M        | 99%       | 83,917
 
 Crystal again shows better results.
 

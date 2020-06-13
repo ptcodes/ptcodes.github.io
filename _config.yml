@@ -21,8 +21,6 @@ avatar: /images/logo.svg
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: 
-  facebook:
-  flickr:
   github: ptcodes
   instagram:
   linkedin: 
@@ -88,7 +86,5 @@ paginate_path: /page:num/
 exclude:
   - Gemfile
   - Gemfile.lock
-  - LICENSE
   - README.md
-  - CNAME
 

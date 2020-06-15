@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Domain Registration with Amazon Route 53 using AWS CLI
-categories: [Amazon,AWS,Route 53,awscli]
+description: Register domains with Amazon Route 53 from the command line.
+categories: [Amazon, AWS, Route 53, awscli]
 image: /images/social/route53.png
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Static Blog with Jekyll and Amazon Amplify
-categories: [Amazon,AWS,Amplify,awscli]
+description: Create a static blog with Jekyll and Amazon Amplify from the command line.
+categories: [Amazon, AWS, Amplify, awscli]
 image: /images/social/amplify.png
 ---
 

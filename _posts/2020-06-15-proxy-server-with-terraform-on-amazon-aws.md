@@ -287,7 +287,7 @@ That will be it for today. Until next time!
 
 ## Aditional Resources
 
-* [Source code](https://github.com/ptcodes/proxy-server-with-terraform/blob/master/main.tf) used in this artice on Github
+* [Source code](https://github.com/ptcodes/proxy-server-with-terraform) used in this artice on Github
 * [HashiCorp's guide on Terraform](https://learn.hashicorp.com/terraform)
 * [Terraform: Up & Running: Writing Infrastructure as Code](https://www.terraformupandrunning.com/) book by Yevgeniy Brikman
 

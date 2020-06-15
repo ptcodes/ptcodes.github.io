@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Personal Proxy Server with Terraform on Amazon AWS
-description: Let's take a look at what Infrastructure as Code (IaC) is and how it can be used in a practical exercise: spinning up a proxy server on Amazon AWS with Terraform.
-categories: [Terraform, Amazon, EC2, AWS, IAC, tinyproxy, proxy]
+title: Personal Proxy Server with Terraform on Amazon AWS
+description: Let's take a look at what Infrastructure as Code is and how it can be used in a practical exercise&#58; spinning up a proxy server on Amazon AWS with Terraform.
+categories: [Terraform, Amazon, EC2, AWS, IaC, tinyproxy, proxy]
 image: /images/social/terraform.png
 ---
 

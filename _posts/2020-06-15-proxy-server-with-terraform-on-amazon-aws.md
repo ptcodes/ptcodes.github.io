@@ -20,6 +20,8 @@ The idea behind Infrastructure as Code is that you write code to define, deploy,
 * Change Management. Version control systems such as git keeps track of every modification to the code.
 * Reusability. You can package your infrastructure in reusable modules. 
 
+<!-- more -->
+
 ## Terraform
 
 [Terraform](https://www.terraform.io/) is an infrastructure provisioning tool created by HashiCorp. It is open-source and supports multiple cloud providers such as Amazon AWS, Google Cloud Platform (GCP), Microsoft Azure and others. 
@@ -193,7 +195,7 @@ terraform apply -var "ip_address=190.161.233.196"
 ```
 
 Truncated output:
-```
+```bash
 An execution plan has been generated and is shown below.
 Resource actions are indicated with the following symbols:
   + create
@@ -233,9 +235,9 @@ proxy_ip_address = 34.219.159.54
 proxy_port = 8888
 ```
 
-Two output values specified earlier were printed at the very bottom. We can use them to see if our proxy works.
+Two output values specified earlier were printed at the very bottom. We can use them to make sure proxy works.
 
-Let's give a few minutes to our instance to finish the initialization.
+But first let's give our instance a few minutes to finish initialization.
 
 Here is how we can specify a proxy in the curl syntax:
 ```bash
@@ -249,9 +251,9 @@ Output
 34.219.159.54
 ```
 
-Great, our proxy works as expected.
+Great, our proxy works as expected!
 
-Now, we can access the sites we wanted and when there is no need in the proxy any more we can delete our EC2 instance: 
+Now we can access the sites we wanted and when there is no need in the proxy any more we can delete our EC2 instance: 
 ```
 terraform destroy -var "ip_address=190.161.233.196"
 ```

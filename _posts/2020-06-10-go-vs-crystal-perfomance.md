@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Go vs Crystal Performance
-categories: [Go,Crystal,Performance,wrk]
+description: Go vs Crystal performance comparison using two examples&#58; generating a Fibonacci sequence for a given number and benchmarking an HTTP server with wrk.
+categories: [Go, Crystal, performance, benchmarks, wrk]
 image: /images/social/crystal-lang.png
 ---
 

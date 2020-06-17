@@ -2,7 +2,7 @@
 layout: post
 title:  Ruby vs Crystal Performance
 categories: [Ruby,Crystal,Performance]
-excerpt: I've been hearing about the Crystal programming language here and there over the last couple of years but never had a chance to give it a look until yesterday. What is Crystal? It's a statically type, compiled, object-oriented language with syntax heavily inspired by Ruby's.
+description: An overview of the Crystal language and performance comparison between Crystal and Ruby.
 image: /images/social/crystal-lang.png
 ---
 

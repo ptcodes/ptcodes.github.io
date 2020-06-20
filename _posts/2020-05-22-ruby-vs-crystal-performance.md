@@ -2,7 +2,7 @@
 layout: post
 title:  Ruby vs Crystal Performance
 categories: [Ruby,Crystal,Performance]
-description: An overview of the Crystal language and performance comparison between Crystal and Ruby.
+description: An overview of the Crystal programming language and performance comparison between Crystal and Ruby.
 image: /images/social/crystal-lang.png
 ---
 

@@ -76,6 +76,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-target-blank
+  - jekyll-admin
 
 include: ['_pages']
 

@@ -10,7 +10,7 @@ image: /images/social/terraform.jpg
 
 In this blog post we will be looking at what Infrastructure as Code (IaC) is and how it can be used in a practical exercise: spinning up a proxy server on Amazon AWS with Terraform.
 
-You might want to use a proxy for various reasons. For instance, I currently live in South America and some US companies block traffic or content for me. For example, LendingTree gives me the 1020 error (probably because they don't consider me a potential customer) or Netflix hides certain movies and shows (probably because of license agreements). A proxy with a US IP address will help here.
+You might want to use a proxy for various reasons. For instance, I currently live in South America and some US companies block traffic or content for me. For example, LendingTree gives me the 1020 error (probably because they don't consider me a potential customer) or Netflix hides certain movies and shows (probably because of license agreements). A proxy with a US IP address will help.
 
 ## Infrastructure as Code
 
@@ -189,7 +189,7 @@ Terraform will perform the following actions:
 Plan: 2 to add, 0 to change, 0 to destroy.
 ```
 
-Everything looks good and we can go apply the changes. You will be asked for a confirmation and need to type 'yes'.
+Everything looks good and we can go apply the changes. You will be asked for a confirmation and need to type `yes`.
 
 ```bash
 terraform apply -var "ip_address=190.161.233.196"
@@ -285,9 +285,9 @@ So, this was a very short introduction to Terraform and we just touched the surf
 
 That will be it for today. Until next time!
 
-## Aditional Resources
+## Additional Resources
 
-* [Source code](https://github.com/ptcodes/proxy-server-with-terraform) used in this artice on Github
+* [Source code](https://github.com/ptcodes/proxy-server-with-terraform) used in this article on Github
 * [HashiCorp's guide on Terraform](https://learn.hashicorp.com/terraform)
 * [Terraform: Up & Running: Writing Infrastructure as Code](https://www.terraformupandrunning.com/) book by Yevgeniy Brikman
 

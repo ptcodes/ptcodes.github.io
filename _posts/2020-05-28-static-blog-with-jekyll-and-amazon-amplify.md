@@ -42,11 +42,11 @@ And to generate a new site simply run:
 jekyll new my-awesome-site
 ```
 
-## Prerequirements
+## Pre-requirements
 
 Alright, we still need to do a couple of things. Please create a git repository with your Jekyll site. Amazon Amplify works with Github, Gitlab, Bitbucket and private git repositories.
 
-Please add a file called amplify.yml with the followent content:
+Please add a file called amplify.yml with the following content:
 
 ```yaml
 version: 0.1

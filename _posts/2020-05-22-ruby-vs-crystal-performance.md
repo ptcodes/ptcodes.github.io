@@ -6,7 +6,7 @@ description: An overview of the Crystal programming language and performance com
 image: /images/social/crystal-lang.png
 ---
 
-![Ruby vs Crystal](/images/ruby-vs-crystal.png)
+[![Ruby vs Crystal](/images/ruby-vs-crystal.png)](/ruby-vs-crystal-performance/)
 
 *You can join the discussion on HackerNews [here](https://news.ycombinator.com/item?id=23431941).*
 

@@ -6,7 +6,7 @@ categories: [Terraform, Amazon, EC2, AWS, IaC, tinyproxy, proxy]
 image: /images/social/terraform.jpg
 ---
 
-![Amazon AWS with Terraform](/images/terraform-and-aws.png)
+[![Amazon AWS with Terraform](/images/terraform-and-aws.png)](/proxy-server-with-terraform-on-amazon-aws/)
 
 In this blog post we will be looking at what Infrastructure as Code (IaC) is and how it can be used in a practical exercise: spinning up a proxy server on Amazon AWS with Terraform.
 

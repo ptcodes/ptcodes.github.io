@@ -6,7 +6,7 @@ categories: [Go, Crystal, performance, benchmarks, wrk]
 image: /images/social/crystal-lang.png
 ---
 
-![Go vs Crystal](/images/go-vs-crystal.png)
+[![Go vs Crystal](/images/go-vs-crystal.png)](/go-vs-crystal-perfomance/)
 
 It's a follow up post to the previous [Ruby vs Crystal Performance](/ruby-vs-crystal-performance/).
 

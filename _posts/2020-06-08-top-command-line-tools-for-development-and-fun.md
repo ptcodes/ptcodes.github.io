@@ -6,7 +6,7 @@ categories: [homebrew, tldr, ag, tig, tree, curl, httpie, jq, glances, wrk, yout
 image: /images/social/homebrew.png
 ---
 
-![Top Command Line Tools](/images/top-command-line-tools.png)
+[![Top Command Line Tools](/images/top-command-line-tools.png)](/top-command-line-tools-for-development-and-fun/)
 
 As a software developer I love working in the terminal where I do most of my work.
 

@@ -6,7 +6,7 @@ categories: [Amazon, AWS, Route 53, awscli]
 image: /images/social/route53.png
 ---
 
-![Amazon Route53](/images/amazon-route53.png)
+[![Amazon Route53](/images/amazon-route53.png)](/domain-registration-with-amazon-route-53-using-awscli/)
 
 [Amazon Route 53](https://aws.amazon.com/route53/) provides highly available and scalable Domain Name System (DNS), domain name registration, and health-checking web services.
 You can register a domain name in different TLDs such as .com or .net. There are two ways of doing so: using the web interface or command line. 

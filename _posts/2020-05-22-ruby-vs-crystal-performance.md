@@ -12,9 +12,9 @@ image: /images/social/crystal-lang.png
 
 I've been hearing about the [Crystal programming language](https://crystal-lang.org/) here and there over the last couple of years but never had a chance to give it a look until yesterday.
 
-What is Crystal? It's a statically type, compiled, object-oriented language with syntax heavily inspired by Ruby's.
+What is Crystal? It's a statically typed, compiled, object-oriented language with syntax heavily inspired by Ruby's.
 
-The promise on its site is that the language is fast as C, sleek as Ruby. This statement sounds exciting and makes you want to check how fast Crystal is comparing to Ruby. Of course, it won't be a fair comparison since one is a compiled language and another is an interpreted one (the Ruby MRI implementation used below).
+The promise on its site is that the language is as fast as C, sleek as Ruby. This statement sounds exciting and makes you want to check how fast Crystal is comparing to Ruby. Of course, it won't be a fair comparison since one is a compiled language and another is an interpreted one (the Ruby MRI implementation used below).
 
 <!-- more -->
 

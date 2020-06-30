@@ -8,6 +8,8 @@ image: /images/social/crystal-lang.png
 
 [![Go vs Crystal](/images/go-vs-crystal.png)](/go-vs-crystal-perfomance/)
 
+*You can join the discussion on HackerNews [here](https://news.ycombinator.com/item?id=23615303).*
+
 It's a follow up post to the previous [Ruby vs Crystal Performance](/ruby-vs-crystal-performance/).
 
 I guess this time it will be a fair performance comparison as both languages are compiled and statically typed.

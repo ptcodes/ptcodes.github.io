@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Command Line Tools for Development and Fun
-description: An overview of command line tools for software development and entertainment`:` homebrew, tldr, ag, tig, tree, curl, httpie, js, glances, wrk, youtube-dl and cmus.
+description: An overview of command-line tools for software development and entertainment`:` homebrew, tldr, ag, tig, tree, curl, httpie, js, glances, wrk, youtube-dl and cmus.
 categories: [homebrew, tldr, ag, tig, tree, curl, httpie, jq, glances, wrk, youtube-dl, cmus, cli]
 image: /images/social/homebrew.png
 ---
@@ -10,15 +10,15 @@ image: /images/social/homebrew.png
 
 As a software developer I love working in the terminal where I do most of my work.
 
-iTerm2, zsh, vim, tmux became my favorite tools but there are many others I use pretty much on a daily basis. 
+iTerm2, zsh, vim, tmux became my favorite tools but there are many others I use pretty much on a daily basis.
 
 Let's take a look at some of them.
 
 ## Homebrew
 
-This one you probably already know. [Homebrew](https://brew.sh/) is a *fantastic* package manager for MacOS and Linux with an active community of developers on Github.
+This one you probably already know. [Homebrew](https://brew.sh/) is a *fantastic* package manager for macOS and Linux with an active community of developers on Github.
 
-You can install nearly any software using Homebrew. Every command line tool described in this blog post below can be installed as easy as running
+You can install nearly any software using Homebrew. Every command-line tool described in this blog post below can be installed as easy as running
 ```bash
 brew install <tool name>
 ```
@@ -35,7 +35,7 @@ brew search postgres
 
 <!-- more -->
 
-To install Homebrew itself from the command line run:
+To install Homebrew itself from the command-line run:
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
@@ -55,7 +55,7 @@ Output:
 
 [ag](https://geoff.greer.fm/ag/) also known as The Silver Searcher is a tool for searching code.
 
-I've been using [ack](https://beyondgrep.com/) for years but recently switched to ag as it works much faster (34 times in some tests). 
+I've been using [ack](https://beyondgrep.com/) for years but recently switched to ag as it works much faster (34 times in some tests).
 
 For instance, use it to list files in the current directory that contain the printf function:
 ```bash
@@ -91,7 +91,7 @@ Output:
 
 ## curl / httpie
 
-[curl](https://curl.haxx.se/) is a command-line HTTP client. It's oldie but goodie. There are some modern alternatives with colorful output and which are probably more user friendly (see the list below). 
+[curl](https://curl.haxx.se/) is a command-line HTTP client. It's oldie but goodie. There are some modern alternatives with colorful output and which are probably more user friendly (see the list below).
 I have them installed on my machine but always forget to use in favor to curl.
 
 A few curl commands I frequently use:
@@ -143,9 +143,9 @@ Output:
 
 ## glances
 
-[glances](https://nicolargo.github.io/glances/) is a system monitoring tool. You can think of it as `top` (`htop`) on steroids. 
+[glances](https://nicolargo.github.io/glances/) is a system monitoring tool. You can think of it as `top` (`htop`) on steroids.
 
-It gives a large amount of monitoring information about your system: 
+It gives a large amount of monitoring information about your system:
 * CPU, memory and disk space usage
 * Running process
 * Running Docker containers
@@ -205,7 +205,7 @@ Some commands:
 
 Download a video in the mp4 format:
 ```bash
-youtube-dl grnQ46lNDAc 
+youtube-dl grnQ46lNDAc
 ```
 
 Download a video, extract audio and save it in the mp3 format:
@@ -233,7 +233,7 @@ I could never get used to iTunes on Mac or any other Desktop music player but cm
 To start using it go to the folder with your music files and type `cmus`
 Then `:add .` to add music form the current directory.
 
-As mentioned above you can use vim key bindings to navigate around. 
+As mentioned above you can use vim key bindings to navigate around.
 
 A few useful keys:
 ```
@@ -249,5 +249,5 @@ To change a color scheme you can use `:colorscheme` (solarized-light, anyone?)
 
 Well, that's all for today.
 
-There are a bunch of other great command line tools. What are yours? I would love to hear from you!
+There is a bunch of other great command-line tools. What are yours? I would love to hear from you!
 

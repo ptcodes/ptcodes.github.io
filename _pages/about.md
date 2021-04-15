@@ -8,6 +8,8 @@ Hi, I'm Pavel.
 
 In this [blog](/) I share my experience in software development, devops, startups and other things of my interest.
 
-I'm on Twitter at [https://twitter.com/ptcodes](https://twitter.com/ptcodes) and my email address is pav.timofeev@gmail.com. Feel free to reach out.
+I'm a co-founder and the CTO of [Cooper Pet Care](https://cooperpetcare.com) - a pet health insurance company based in the Netherlands.
+
+You can find me on Twitter at [https://twitter.com/ptcodes](https://twitter.com/ptcodes). Feel free to reach out.
 
 

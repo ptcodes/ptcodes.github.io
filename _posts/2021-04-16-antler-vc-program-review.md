@@ -82,7 +82,7 @@ You still get on a group call once a week to discuss the progress. But you’re 
 
 ![Antler pre-IC session](/images/antler3.jpg)
 
-The program culminates with the Demo Day, a chance to pitch your idea to investors, accelerators, entrepreneurs and industry leaders.
+The program culminates with the demo day, a chance to pitch your idea to investors, accelerators, entrepreneurs and industry leaders.
 
 ## Demo Day
 
@@ -108,7 +108,7 @@ I would definitely recommend Antler if you face one of the following problems:
 - You’re looking for a community of like-minded people
 - You’re looking for a pre-seed round of funding
 
-Then Antler might be a good fit for you. Overall, it’s a lot of fun, learning and making new friends.
+Then Antler might be a good fit for you. Overall, it’s a lot of fun, learnings and making new friends.
 
 It’s probably not for you if you’re far in the game and have a founding team and some revenue from your product.
 

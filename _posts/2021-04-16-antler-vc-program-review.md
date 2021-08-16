@@ -39,8 +39,8 @@ I am actually renewing my Dutch residence permit right now for another 2 years a
 ## The Program
 
 You can divide the program into a few blocks:
-- Pre-program: you get access to the Antler Founder hub. It’s a library of videos and materials on various topics from finding a co-founder to building a company. 
-- Phase 1 (10 weeks):
+- Pre-program: you get access to the Antler Founder hub. It’s a library of videos and materials on various topics from finding a co-founder to building a company.
+- Phase 1 (11 weeks):
   - first 2 weeks to meet other founders
   - the next 9 weeks to ideate and validate
 - Investment Committee
@@ -50,16 +50,16 @@ You can divide the program into a few blocks:
 
 ## The Program: Phase 1
 
-The purpose of Phase 1 is to help you find a team and equip you with the skills and knowledge to build a paradigm-changing startup. It lasts 10 weeks.
+The purpose of Phase 1 is to help you find a team and equip you with the skills and knowledge to build a paradigm-changing startup. It lasts 11 weeks.
 
 The first two weeks are pretty intense. There are various sessions on team formation, product ideation, business models. Workshops and team building activities. There are invited speakers and dedicated coaching sessions. You need to meet and talk to all 50-70 founders, find out what values and ideas they have.
 
 ![Antler: a group activity](/images/antler2.jpg)
 
 
-As from week 3, a substantial amount of your interactions with Antler will be 1:1 or 2:1, combined with group sessions and seminars. Their goal is to help you build your startup and receive investment from the Investment Committee. You will be teaming up with different people, doing market research, validating ideas and maybe even building prototypes and acquiring first customers.
+As from week 3, a substantial amount of your interactions with Antler will be 1:1 or 2:1, combined with group sessions and seminars. The goal is to help you build your startup and receive investment from the Investment Committee. You will be teaming up with different people, doing market research, validating ideas and maybe even building prototypes and acquiring first customers.
 
-You will have three pre-investment committee sessions. For them you need to have an idea approved by Antler and a team. And ideally even more than that (market demand, a prototype, etc). Otherwise, you won’t be allowed to present to the investment committee. In our cohort only around 15 people (7 teams) were given the green light. For the rest the program was over.
+You will have three pre-investment committee sessions. For them you need to have an idea approved by Antler and a team. And ideally even more than that (show market demand, have a prototype, etc). Otherwise, you won’t be allowed to present to the investment committee. In our cohort only around 15 people (who formed 7 teams) were given the green light. For the rest the program was over.
 
 ## The Investment Committee
 
@@ -69,9 +69,9 @@ Overall, 5 teams were offered an investment. 4 teams have taken it and one team 
 
 ## The Investment
 
-If the Investment Committee selects your idea Antler will invest €100,000 for a 12% equity stake in your company. 
+If the Investment Committee selects your idea Antler will invest €100,000 for a 12% equity stake in your company.
 
-But will pay €45,000 (+21% VAT) to cover the program fees. So you will get €45,550 transferred to your company’s bank account. You can also get the VAT (€10,041) from the tax authorities back in a month or two.
+But you will pay €45,000 (+21% VAT) to cover the program fees. So you will get €45,550 transferred to your company’s bank account. You can also get the VAT (€10,041) from the tax authorities back in a month or two.
 
 ## The Program: Phase 2
 

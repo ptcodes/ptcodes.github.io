@@ -22,7 +22,7 @@ Basically, what they do is take a bunch of smart people with business and tech b
 
 ## Getting into the Program
 
-You apply online and a recruiter will schedule a call with you and ask some general questions about your previous experience and answer your questions about the Antler program. My feeling is that people who started a company in the past, worked for a startup, have an entrepreneurial background get some bonus points.
+You apply online and a recruiter will schedule a call with you and ask some general questions about your previous experience and answer your questions about the Antler program. My feeling is that people who started a company in the past, worked for a startup, or have an entrepreneurial background will get some bonus points on their application.
 
 Then you get on another call with a partner or director-level person. Here it gets more interesting and they ask you to think about a certain business case. For example, I was asked to imagine I had to launch an Uber-like company in a new city: how I do that, what my marketing initiatives would be, etc. There are no right or wrong answers here, they just want to see your way of thinking.
 

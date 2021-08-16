@@ -91,7 +91,7 @@ After demo day, we received around 20 emails from investors interested in our co
 
 ## After the Program
 
-After the demo day Antler still supports you with your fundraising process and uses its large network of connections in the VC world. You also get on a weekly call with your dedicated coach who assists you in any way possible.
+After demo day Antler still supports you with your fundraising process and uses its large network of connections in the VC world. You also get on a weekly call with your dedicated coach who assists you in any way possible.
 
 ![Antler: a session with invited VCs](/images/antler4.jpg)
 

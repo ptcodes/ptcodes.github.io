@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Antler VC Program Review
+title:  Antler VC Program Participant Review
 categories: [Antler,VC,Startups,Netherlands]
 description: An overview of the Antler VC program.
 image: /images/social/antler.png
@@ -51,25 +51,24 @@ You can divide the program into a few blocks:
 ## The Program: Phase 1
 
 The purpose of Phase 1 is to help you find a team and equip you with the skills and knowledge to build a paradigm-changing startup. It lasts 11 weeks.
-
-The first two weeks are pretty intense. There are various sessions on team formation, product ideation, business models. Workshops and team building activities. There are invited speakers and dedicated coaching sessions. You need to meet and talk to all 50-70 founders, find out what values and ideas they have.
+The first two weeks are pretty intense. There are various sessions on team formation, product ideation, business models. Along with workshops and team building activities, there are speakers and dedicated coaching sessions. You need to meet and talk to all 50-70 founders, find out what values and ideas they have.
 
 ![Antler: a group activity](/images/antler2.jpg)
 
 
-As from week 3, a substantial amount of your interactions with Antler will be 1:1 or 2:1, combined with group sessions and seminars. The goal is to help you build your startup and receive investment from the Investment Committee. You will be teaming up with different people, doing market research, validating ideas and maybe even building prototypes and acquiring first customers.
+Starting in week 3, a substantial amount of your interactions with Antler will be 1:1 or 2:1, combined with group sessions and seminars. The goal is to help you build your startup and receive investment from the Investment Committee. You will be teaming up with different people, doing market research, validating ideas and maybe even building prototypes and acquiring first customers.
 
 You will have three pre-investment committee sessions. For them you need to have an idea approved by Antler and a team. And ideally even more than that (show market demand, have a prototype, etc). Otherwise, you won’t be allowed to present to the investment committee. In our cohort only around 15 people (who formed 7 teams) were given the green light. For the rest the program was over.
 
 ## The Investment Committee
 
-So, if you’re going to the IC, this is how it’s going to look like. You will have around 10 minutes to present your idea and 10 minutes to answer questions of the IC board which consists of 2 local Antler partners, 2 global Antler partners, 2 external experts (usually people from other VC firms). There could be some other parties on the call as well. You need to get 4 voices out of 6 to pass. We’ve got 6 out of 6.
+So, if you’re going to the IC, this is how it’s going to look like. You will have around 10 minutes to present your idea and 10 minutes to answer questions of the IC board which consists of 2 local Antler partners, 2 global Antler partners, and 2 external experts (usually people from other VC firms). There could be some other parties on the call as well. You need to get 4 "yes" votes out of 6 to pass. We’ve got 6 out of 6.
 
 Overall, 5 teams were offered an investment. 4 teams have taken it and one team decided to pass on for personal matters.
 
 ## The Investment
 
-If the Investment Committee selects your idea Antler will invest €100,000 for a 12% equity stake in your company.
+If the Investment Committee selects your idea, Antler will invest €100,000 for a 12% equity stake in your company.
 
 But you will pay €45,000 (+21% VAT) to cover the program fees. So you will get €45,550 transferred to your company’s bank account. You can also get the VAT (€10,041) from the tax authorities back in a month or two.
 
@@ -82,13 +81,13 @@ You still get on a group call once a week to discuss the progress. But you’re 
 
 ![Antler pre-IC session](/images/antler3.jpg)
 
-The program culminates with the demo day, a chance to pitch your idea to investors, accelerators, entrepreneurs and industry leaders.
+The program culminates with demo day, and is a chance to pitch your idea to investors, accelerators, entrepreneurs and industry leaders.
 
 ## Demo Day
 
-The rumors are that during the pre-pandemic time you would present your company in front of investors who were in the same room with you. But during the Covid times the presentation is pre-recorded and shown on Youtube.
+Before the pandemic, teams would present at a live session with investors in the room - but during Covid, the presentation is pre-recorded and shown on Youtube.
 
-After the demo day we have received around 20 emails from people and a few VC firms interested in investing into our company but we’re still in the talks with them.
+After demo day, we received around 20 emails from investors interested in our company - we’re still  currently in the talks with them.
 
 ## After the Program
 

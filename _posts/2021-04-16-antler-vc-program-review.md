@@ -2,7 +2,7 @@
 layout: post
 title:  Antler VC Program Participant Review
 categories: [Antler,VC,Startups,Netherlands]
-description: An overview of the Antler VC program.
+description: An overview of the Antler VC from a participant of the Antler Amsterdam program.
 image: /images/social/antler.png
 ---
 

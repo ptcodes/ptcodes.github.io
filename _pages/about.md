@@ -12,4 +12,5 @@ I'm a co-founder and CTO of [Cooper Pet Care](https://cooperpetcare.com) - a pet
 
 You can find me on Twitter at [https://twitter.com/ptcodes](https://twitter.com/ptcodes). Feel free to reach out.
 
+I’m currently located in Amsterdam, the Netherlands.
 

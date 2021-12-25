@@ -8,7 +8,7 @@ image: /images/social/antler.png
 
 [![Antler VC Program](/images/antler.png)](/antler-vc-program-overview/)
 
-A few people asked to share my experience with the Antler program and I’ve decided to write up a little review.
+A few people asked me to share experience with the Antler program and I've decided to put together a little review.
 
 I was in the third cohort of [Antler Amsterdam](https://www.antler.co/amsterdam) in 2020-2021 and went through the program, received the investment and made it to the demo day.
 
@@ -32,7 +32,7 @@ If you pass the interviews you will be asked to complete an aptitude test, eithe
 
 ## Visa Support
 
-I have moved to the Netherlands from South America and Antler helped with a 1 year entrepreneur visa for me and my family. It was a pretty simple process and only a few documents were required. But as I know only Singapore and the Netherlands have special visa programs for entrepreneurs and Antler can’t help you out in other locations.
+I have moved to the Netherlands from South America and Antler helped with a 1 year entrepreneur visa for me and my family. It was a quite simple process and only a few documents were required. As far as I know only Singapore and the Netherlands have special visa programs for entrepreneurs and Antler can’t help you in other locations.
 
 I am actually renewing my Dutch residence permit right now for another 2 years and the process again is hassle-free.
 
@@ -62,7 +62,7 @@ You will have three pre-investment committee sessions. For them you need to have
 
 ## The Investment Committee
 
-So, if you’re going to the IC, this is how it’s going to look like. You will have around 10 minutes to present your idea and 10 minutes to answer questions of the IC board which consists of 2 local Antler partners, 2 global Antler partners, and 2 external experts (usually people from other VC firms). There could be some other parties on the call as well. You need to get 4 "yes" votes out of 6 to pass. We’ve got 6 out of 6.
+So, if you’re going to the IC, this is how it’s going to look like. You will have around 10 minutes to present your idea and 10 minutes to answer questions of the IC board which consists of 2 local Antler partners, 2 global Antler partners, and 2 external experts (usually people from other VC firms). There could be some other parties on the call as well. You need to get 4 "yes" votes out of 6 to pass. We've got 6 out of 6.
 
 Overall, 5 teams were offered an investment. 4 teams have taken it and one team decided to pass on for personal matters.
 
@@ -78,7 +78,6 @@ The second phase of the program focuses on building and launching your venture. 
 
 You still get on a group call once a week to discuss the progress. But you’re basically on your own with your co-founder(s) and decide yourself what’s best for your company.
 
-
 ![Antler pre-IC session](/images/antler3.jpg)
 
 The program culminates with demo day, and is a chance to pitch your idea to investors, accelerators, entrepreneurs and industry leaders.
@@ -87,7 +86,7 @@ The program culminates with demo day, and is a chance to pitch your idea to inve
 
 Before the pandemic, teams would present at a live session with investors in the room - but during Covid, the presentation is pre-recorded and shown on Youtube.
 
-After demo day, we received around 20 emails from investors interested in our company - we’re still  currently in the talks with them.
+After demo day, we received around 20 emails from investors interested in our company - we’re still currently in the talks with them.
 
 ## After the Program
 
@@ -102,14 +101,14 @@ Apart from that you can access the global Antler Slack group with more than one 
 
 I would definitely recommend Antler if you face one of the following problems:
 - You need to find a co-founder
-- You don’t have a clear idea, you want to quickly validate your idea or you don’t have idea at all but want to start a company
-- You have launched an MVP but you’re pre-revenue and need advice
+- You don’t have a clear idea, you want to quickly validate your idea or you don’t have an idea at all but want to start a company
+- You have launched an MVP but you’re pre-revenue and open for advice
 - You’re looking for a community of like-minded people
 - You’re looking for a pre-seed round of funding
 
 Then Antler might be a good fit for you. Overall, it’s a lot of fun, learnings and making new friends.
 
-It’s probably not for you if you’re far in the game and have a founding team and some revenue from your product.
+It’s probably not for you if you’re far in the game and have a founding team and started getting some revenue from your product.
 
 If you are still reading and curious about what I’m building, it's a pet healthcare platform with personal vet and honest pet insurance in your pocket called [Cooper Pet Care](https://cooperpetcare.com/). And if you read Dutch and know what [hondenverzekering](https://cooperpetcare.com/nl/hondenverzekering/) and [kattenverzekering](https://cooperpetcare.com/nl/kattenverzekering/) are then definitely check us out.
 

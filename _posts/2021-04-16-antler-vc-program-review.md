@@ -10,7 +10,7 @@ image: /images/social/antler.png
 
 A few people asked me to share experience with the Antler program and I've decided to put together a little review.
 
-I was in the third cohort of [Antler Amsterdam](https://www.antler.co/amsterdam) in 2020-2021 and went through the program, received the investment and made it to the demo day.
+I was in the third cohort of [Antler Amsterdam](https://www.antler.co/netherlands) in 2020-2021 and went through the program, received the investment and made it to the demo day.
 
 ## What is Antler and Who is it for?
 

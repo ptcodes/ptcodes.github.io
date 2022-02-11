@@ -72,6 +72,8 @@ If the Investment Committee selects your idea, Antler will invest €100,000 for
 
 But you will pay €45,000 (+21% VAT) to cover the program fees. So you will get €45,550 transferred to your company’s bank account. You can also get the VAT (€10,041) from the tax authorities back in a month or two.
 
+**Update 2020:** Here is a piece of exciting news! As of Feburary 2020, Antler has changed the offer and won't be charging you €45,000 as the program fee. That means you get €100,000 for a 12% stake in your company.
+
 ## The Program: Phase 2
 
 The second phase of the program focuses on building and launching your venture. You will be free to reach your MVP however you see fit, with support from the Antler global advisory network.

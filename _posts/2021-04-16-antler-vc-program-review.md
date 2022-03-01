@@ -112,5 +112,3 @@ Then Antler might be a good fit for you. Overall, it’s a lot of fun, learnings
 
 It’s probably not for you if you’re far in the game and have a founding team and started getting some revenue from your product.
 
-If you are still reading and curious about what I’m building, it's a pet healthcare platform with personal vet and honest pet insurance in your pocket called [Cooper Pet Care](https://cooperpetcare.com/). And if you read Dutch and know what [hondenverzekering](https://cooperpetcare.com/nl/hondenverzekering/) and [kattenverzekering](https://cooperpetcare.com/nl/kattenverzekering/) are then definitely check us out.
-

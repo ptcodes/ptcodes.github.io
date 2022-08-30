@@ -112,3 +112,4 @@ Then Antler might be a good fit for you. Overall, it’s a lot of fun, learnings
 
 It’s probably not for you if you’re far in the game and have a founding team and started getting some revenue from your product.
 
+By the way, if you're curious of what I am building it's a service for [online vet appointments](https://cooperpetcare.com) called Cooper Pet Care. Feel free to check it out.

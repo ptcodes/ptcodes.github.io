@@ -8,55 +8,51 @@ image: /images/social/antler.png
 
 [![Antler VC Program](/images/antler.png)](/antler-vc-program-overview/)
 
-A few people asked me to share experience with the Antler program and I've decided to put together a little review.
+Several people have asked me to share my experiences with the Antler program. To address these requests, I’ve composed a review encapsulating my journey with Antler.
 
-I was in the third cohort of [Antler Amsterdam](https://www.antler.co/netherlands) in 2020-2021 and went through the program, received the investment and made it to the demo day.
+I participated in the third cohort of [Antler Amsterdam](https://www.antler.co/location/netherlands) in 2020-2021, navigating through the entire program, securing an investment, and presenting at the demo day.
 
-## What is Antler and Who is it for?
+## Overview of Antler and its Target Audience
 
-Antler is a global early-stage VC enabling and investing in the world’s most exceptional people building the defining companies of tomorrow.
+Antler is a global early-stage venture capital (VC) firm dedicated to enabling and investing in extraordinary individuals who are shaping the future with groundbreaking companies.
 
-Basically, what they do is take a bunch of smart people with business and tech backgrounds, mix them together and see what kind of ideas for new companies they can come up with. The best teams and ideas get an investment from Antler.
+In essence, Antler unites highly-intelligent individuals with diverse business and tech backgrounds, fosters collaboration to generate novel business concepts, and subsequently funds the most promising teams and ideas.
 
 <!-- more -->
 
-## Getting into the Program
+## Application Process for the Antler Program
 
-You apply online and a recruiter will schedule a call with you and ask some general questions about your previous experience and answer your questions about the Antler program. My feeling is that people who started a company in the past, worked for a startup, or have an entrepreneurial background will get some bonus points on their application.
+Applicants initiate the process online, followed by a call with a recruiter who gauges your past experiences and answers your questions about Antler. I sensed that those with entrepreneurial backgrounds, previous startup experience, or prior involvement in company founding might have an edge in the application process.
 
-Then you get on another call with a partner or director-level person. Here it gets more interesting and they ask you to think about a certain business case. For example, I was asked to imagine I had to launch an Uber-like company in a new city: how I do that, what my marketing initiatives would be, etc. There are no right or wrong answers here, they just want to see your way of thinking.
+Next, you have a conversation with a partner or director-level individual. This part of the process is more engaging as you're expected to tackle a specific business case. For instance, I was asked to strategize a marketing plan for launching an Uber-like service in a new city. This stage is more about understanding your thought process rather than judging right or wrong answers.
 
-Overall, the interviews were friendly and stress-free.
+I found the interviews to be friendly and low-stress.
 
-If you pass the interviews you will be asked to complete an aptitude test, either the CCAT or the UCAT. If you have been assigned with the CCAT, you will receive 50 questions while the UCAT has 40 questions. The CCAT takes 15 minutes while the UCAT takes 20 minutes. The goal is to answer as many questions as you can get to within the allocated time-frame. These tests assess verbal, spatial reasoning, math & logic and attention to detail. I got the CCAT but Antler never told me the result so I assumed I had passed it.
+Following a successful interview, you'll be asked to complete an aptitude test, either the CCAT or the UCAT. If you have been assigned with the CCAT, you will receive 50 questions while the UCAT has 40 questions. The CCAT takes 15 minutes while the UCAT takes 20 minutes. The goal is to answer as many questions as you can get to within the allocated time-frame. These tests assess verbal, spatial reasoning, math & logic and attention to detail. I got the CCAT but Antler never told me the result so I assumed I had passed it.
 
 ## Visa Support
 
-I have moved to the Netherlands from South America and Antler helped with a 1 year entrepreneur visa for me and my family. It was a quite simple process and only a few documents were required. As far as I know only Singapore and the Netherlands have special visa programs for entrepreneurs and Antler can’t help you in other locations.
+Having moved to the Netherlands from South America, I received assistance from Antler in procuring a one-year entrepreneur visa for myself and my family. This process was straightforward, requiring minimal documentation. Please note, Antler currently only provides visa support for Singapore and the Netherlands.
 
-I am actually renewing my Dutch residence permit right now for another 2 years and the process again is hassle-free.
+I've recently renewed my Dutch residence permit for another two years and the process is progressing smoothly.
 
 ## The Program
 
-You can divide the program into a few blocks:
-- Pre-program: you get access to the Antler Founder hub. It’s a library of videos and materials on various topics from finding a co-founder to building a company.
-- Phase 1 (11 weeks):
-  - first 2 weeks to meet other founders
-  - the next 9 weeks to ideate and validate
-- Investment Committee
-- Phase 2 (3 months) to build your product
-- Demo Day
+The program is composed of several segments:
+- Pre-program: Access to the Antler Founder hub, a resource library filled with videos and materials on topics ranging from co-founder search to company formation.
+- Phase 1 (11 weeks): The first two weeks are for meeting other founders, followed by nine weeks of ideation and validation.
+- Investment Committee evaluation.
+- Phase 2 (3 months): Building your product.
+- Demo Day presentation.
 
 
 ## The Program: Phase 1
 
-The purpose of Phase 1 is to help you find a team and equip you with the skills and knowledge to build a paradigm-changing startup. It lasts 11 weeks.
-The first two weeks are pretty intense. There are various sessions on team formation, product ideation, business models. Along with workshops and team building activities, there are speakers and dedicated coaching sessions. You need to meet and talk to all 50-70 founders, find out what values and ideas they have.
+Phase 1 aims to help you form a team and acquire the skills and knowledge needed to establish an innovative startup. This phase lasts for 11 weeks and begins with a two-week intensive series of sessions on team formation, product ideation, and business model creation. In this phase, you must interact with all 50-70 founders to understand their values and ideas.
 
 ![Antler: a group activity](/images/antler2.jpg)
 
-
-Starting in week 3, a substantial amount of your interactions with Antler will be 1:1 or 2:1, combined with group sessions and seminars. The goal is to help you build your startup and receive investment from the Investment Committee. You will be teaming up with different people, doing market research, validating ideas and maybe even building prototypes and acquiring first customers.
+From week 3, your interactions with Antler will largely be on a 1:1 or 2:1 basis, with a mix of group sessions and seminars. The goal here is to assist you in building your startup and securing investment from the Investment Committee. You'll be partnering with different individuals, conducting market research, validating ideas, and perhaps even building prototypes and acquiring your first customers.
 
 You will have three pre-investment committee sessions. For them you need to have an idea approved by Antler and a team. And ideally even more than that (show market demand, have a prototype, etc). Otherwise, you won’t be allowed to present to the investment committee. In our cohort only around 15 people (who formed 7 teams) were given the green light. For the rest the program was over.
 
@@ -66,13 +62,11 @@ So, if you’re going to the IC, this is how it’s going to look like. You will
 
 Overall, 5 teams were offered an investment. 4 teams have taken it and one team decided to pass on for personal matters.
 
-## The Investment
+## Securing an Investment
 
-If the Investment Committee selects your idea, Antler will invest €100,000 for a 12% equity stake in your company.
+Successful pitches to the Investment Committee result in an investment of €100,000 from Antler for a 12% equity stake in your company. However, a fee of €45,000 (+21% VAT) is charged for program participation, meaning €45,550 is transferred to your company's bank account. The VAT (€10,041) can be reclaimed from the tax authorities within a couple of months.
 
-But you will pay €45,000 (+21% VAT) to cover the program fees. So you will get €45,550 transferred to your company’s bank account. You can also get the VAT (€10,041) from the tax authorities back in a month or two.
-
-**Update 2020:** Here is a piece of exciting news! As of Feburary 2020, Antler has changed the offer and won't be charging you €45,000 as the program fee. That means you get €100,000 for a 12% stake in your company.
+**Update as of February 2020**: Exciting news! Antler has revised its offer and no longer charges the €45,000 program fee. This means you receive the full €100,000 investment for a 12% stake in your company.
 
 ## The Program: Phase 2
 
@@ -90,26 +84,26 @@ Before the pandemic, teams would present at a live session with investors in the
 
 After demo day, we received around 20 emails from investors interested in our company - we’re still currently in the talks with them.
 
-## After the Program
+## Post-Program Support
 
-After demo day Antler still supports you with your fundraising process and uses its large network of connections in the VC world. You also get on a weekly call with your dedicated coach who assists you in any way possible.
+Even after the demo day, Antler continues to support you with your fundraising efforts and leverages its extensive network of VC connections.
 
 ![Antler: a session with invited VCs](/images/antler4.jpg)
 
-
-Apart from that you can access the global Antler Slack group with more than one thousand founders and mentors and a huge database of perks and discounts to products, services and co-working office spaces across the globe.
+You also receive weekly support from a dedicated coach. Additionally, you gain access to the global Antler Slack group, consisting of over a thousand founders and mentors, and a vast database of perks and discounts on various products, services, and coworking spaces worldwide.
 
 ##  Conclusion
 
-I would definitely recommend Antler if you face one of the following problems:
-- You need to find a co-founder
-- You don’t have a clear idea, you want to quickly validate your idea or you don’t have an idea at all but want to start a company
-- You have launched an MVP but you’re pre-revenue and open for advice
-- You’re looking for a community of like-minded people
-- You’re looking for a pre-seed round of funding
+I would wholeheartedly recommend Antler if you:
+- Need to find a co-founder
+- Lack a clear idea or are looking for rapid idea validation
+- Have launched an MVP but are pre-revenue and open to advice
+- Are seeking a community of like-minded people
+- Are in need of a pre-seed round of funding
 
-Then Antler might be a good fit for you. Overall, it’s a lot of fun, learnings and making new friends.
+In these situations, Antler might be an excellent fit for you. Overall, it's a rewarding experience that combines fun, learning, and the forging of new friendships.
 
-It’s probably not for you if you’re far in the game and have a founding team and started getting some revenue from your product.
+However, if you're significantly advanced in your startup journey, have a founding team, and are generating revenue from your product, Antler might not be the best fit.
 
 By the way, if you're curious of what I am building it's a service for [online vet appointments](https://cooperpetcare.com) called Cooper Pet Care. Feel free to check it out.
+

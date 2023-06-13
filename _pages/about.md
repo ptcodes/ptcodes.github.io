@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Pavel.
+Hello, I'm Pavel.
 
-In this [blog](/) I share my experience in software development, devops, startups and other things of my interest.
+This blog serves as a platform where I share my thoughts on software development, devops, startups, and other topics that intrigue me.
+
+Currently, I'm developing [online veterinary](https://cooperpetcare.com) and pet health insurance products at Cooper Pet Care.
 

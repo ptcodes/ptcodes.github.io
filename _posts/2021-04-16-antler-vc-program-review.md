@@ -105,5 +105,5 @@ In these situations, Antler might be an excellent fit for you. Overall, it's a r
 
 However, if you're significantly advanced in your startup journey, have a founding team, and are generating revenue from your product, Antler might not be the best fit.
 
-By the way, if you're curious of what I am building it's a service for [online vet appointments](https://cooperpetcare.com) called Cooper Pet Care. Feel free to check it out.
+By the way, if you're curious of what I am building it's a service for [online vet](https://cooperpetcare.com) called Cooper Pet Care. Feel free to check it out.
 

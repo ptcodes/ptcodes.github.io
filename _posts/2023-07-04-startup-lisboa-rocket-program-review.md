@@ -3,7 +3,7 @@ layout: post
 title: Startup Lisboa Rocket Program Review
 description: This article explores my journey with the Startup Lisboa Rocket Program, its advantages, potential improvements, and its value for startups targeting the Portuguese market.
 categories: [Startup Lisboa, Rocket Program, Portugal, Startup Acceleration, Venture Capital, Cooper Pet Care, Startups]
-image: /images/social/startup-lisboa-logo.png
+image: /images/social/startup-lisboa.png
 ---
 
 [![Render.com](/images/startup-lisboa.jpeg)](/startup-lisboa-rocket-program-review/)
@@ -18,7 +18,7 @@ I am a firm believer in the strength of structured planning and responsibility, 
 
 <!-- more -->
 
-Furthermore, Portugal, and Lisbon in particular, boasts a rich talent pool of skilled English-speaking engineers available at costs significantly lower than in [the Netherlands](https://ptimofeev.com/antler-vc-program-review/). This was a factor in our decision to set up a tech hub in Lisbon - a move that is advantageous for both our budget and team quality.
+Furthermore, Portugal, and Lisbon in particular, boasts a rich talent pool of skilled English-speaking engineers available at costs significantly lower than in [the Netherlands](https://ptimofeev.com/antler-vc-program-review/). This was a factor in our idea to set up a tech hub in Lisbon - a move that is advantageous for both our budget and team quality.
 
 Lastly, the thriving venture capital scene in Portugal has amplified our fundraising efforts, and pur association with Startup Lisboa is likely to draw the interest of eager investors.
 

@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} – {{ config.title }}{% endblock title %}
+
+{% block meta_description %}
+{% if page.description %}
+<meta property="og:description" content="{{ page.description }}" />
+{% else %}
+<meta property="og:description" content="{{ config.description }}" />
+{% endif %}
+{% endblock meta_description %}
+
+{% block og_title %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="twitter:title" content="{{ page.title }}" />
+{% endblock og_title %}
+
+{% block og_image %}
+{% if page.extra.image %}
+<meta property="og:image" content="{{ config.base_url }}{{ page.extra.image }}"/>
+<meta property="twitter:image" content="{{ config.base_url }}{{ page.extra.image }}"/>
+{% else %}
+<meta property="og:image" content="{{ config.base_url }}/images/logo.png"/>
+<meta property="twitter:image" content="{{ config.base_url }}/images/logo.png"/>
+{% endif %}
+{% endblock og_image %}
+
+{% block content %}
+<article class="post detailed">
+  <h1>{{ page.title }}</h1>
+  <div>
+    <p class="author_title">{{ config.extra.author }} · {{ page.date | date(format="%B %-e, %Y") }}</p>
+    {% if page.taxonomies.categories %}
+    <div class="post-tags">
+      {% for cat in page.taxonomies.categories %}
+      <a href="{{ config.base_url }}/categories/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %}&nbsp;{% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  <div class="entry">
+    {{ page.content | safe }}
+  </div>
+  <div>
+    <p>
+      <span class="share-box">Share:</span>
+      <a href="http://twitter.com/share?text={{ page.title | urlencode }}&url={{ page.permalink | urlencode }}" target="_blank" rel="noopener">Twitter</a>,
+      <a href="https://www.facebook.com/sharer.php?u={{ page.permalink | urlencode }}" target="_blank" rel="noopener">Facebook</a>
+    </p>
+  </div>
+  <div class="comments">
+    <div id="disqus_thread"></div>
+    <script>
+      var disqus_config = function () {
+        this.page.url = '{{ page.permalink }}';
+        this.page.identifier = '{{ page.permalink }}';
+      };
+      (function() {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://{{ config.extra.disqus }}.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div>
+</article>
+{% endblock content %}

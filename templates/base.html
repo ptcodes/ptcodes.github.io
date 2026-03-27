@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{% block title %}{% if page.title %}{{ page.title }} – {% elif section.title and section.title != config.title %}{{ section.title }} – {% endif %}{{ config.title }}{% endblock title %}</title>
+
+  <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+  {% block meta_description %}
+  <meta property="og:description" content="{{ config.description }}" />
+  {% endblock meta_description %}
+
+  <meta name="author" content="{{ config.extra.author }}" />
+
+  {% block og_title %}{% endblock og_title %}
+
+  {% block og_image %}
+  <meta property="og:image" content="{{ config.base_url }}/images/logo.png"/>
+  <meta property="twitter:image" content="{{ config.base_url }}/images/logo.png"/>
+  {% endblock og_image %}
+
+  <meta property="og:site_name" content="{{ config.title }} - {{ config.description }}"/>
+  <meta name="theme-color" content="#000000">
+
+  <link rel="stylesheet" type="text/css" href="{{ get_url(path='style.css') }}" />
+  <link rel="alternate" type="application/atom+xml" title="{{ config.title }} - {{ config.description }}"
+    href="{{ get_url(path='atom.xml') }}" />
+  <link rel="icon" type="image/svg" sizes="32x32" href="{{ get_url(path='images/favicon.svg') }}">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css2?family=Roboto&display=swap" />
+</head>
+
+<body>
+  <div id="bar"></div>
+  <div class="wrapper-container">
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ config.base_url }}/" class="site-avatar">
+            <div class="wrap">
+              <div class="side-a"></div>
+              <div class="side-b"></div>
+            </div>
+          </a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ config.base_url }}/">{{ config.title }}</a></h1>
+            <p class="site-description">{{ config.description }}</p>
+          </div>
+
+          <nav>
+            <a href="{{ config.base_url }}/">Home</a>
+            <a href="{{ config.base_url }}/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div class="wrapper-main">
+      <div id="main" role="main" class="container">
+        {% block content %}{% endblock content %}
+      </div>
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          <a href="https://github.com/{{ config.extra.github }}"><i class="svg-icon github"></i></a>
+          <a href="{{ get_url(path='atom.xml') }}"><i class="svg-icon rss"></i></a>
+          <a href="https://www.twitter.com/{{ config.extra.twitter }}"><i class="svg-icon twitter"></i></a>
+        </footer>
+      </div>
+    </div>
+  </div>
+
+  {% if config.extra.google_analytics %}
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', '{{ config.extra.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+  </script>
+  {% endif %}
+</body>
+
+</html>

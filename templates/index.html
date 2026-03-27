@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="posts">
+  {% for page in paginator.pages %}
+  <article class="post">
+    <a href="{{ page.permalink }}">
+      <h1>{{ page.title }}</h1>
+      <div>
+        <p class="post_date">{{ page.date | date(format="%B %-e, %Y") }}</p>
+      </div>
+    </a>
+    <div class="entry">
+      {{ page.summary | safe }}
+    </div>
+    <a href="{{ page.permalink }}" class="read-more">Read More</a>
+  </article>
+  {% endfor %}
+
+  {% if paginator.number_pagers > 1 %}
+  <div class="pagination">
+    {% if paginator.previous %}
+      <a href="{{ paginator.previous }}">&laquo; Prev</a>
+    {% else %}
+      <span>&laquo; Prev</span>
+    {% endif %}
+
+    {% for pager in range(start=1, end=paginator.number_pagers + 1) %}
+      {% if pager == paginator.current_index %}
+        <span class="webjeda">{{ pager }}</span>
+      {% elif pager == 1 %}
+        <a href="{{ config.base_url }}/">{{ pager }}</a>
+      {% else %}
+        <a href="{{ paginator.base_url }}{{ pager }}/">{{ pager }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next %}
+      <a href="{{ paginator.next }}">Next &raquo;</a>
+    {% else %}
+      <span>Next &raquo;</span>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
+{% endblock content %}

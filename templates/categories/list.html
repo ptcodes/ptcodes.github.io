@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Categories – {{ config.title }}{% endblock title %}
+
+{% block content %}
+<article class="page">
+  <h1>Categories</h1>
+  <div class="entry">
+    <div id="archives">
+      {% for term in terms %}
+      <div class="archive-group">
+        <h3 class="category-head">{{ term.name }}</h3>
+        {% for page in term.pages %}
+        <article class="archive-item">
+          <h4><a href="{{ page.permalink }}">{{ page.title }}</a></h4>
+        </article>
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</article>
+{% endblock content %}

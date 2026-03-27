@@ -1,0 +1,23 @@
+base_url = "https://ptimofeev.com"
+title = "Pavel Timofeev"
+description = "On software development, startups, and other things"
+compile_sass = true
+build_search_index = false
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+
+[markdown]
+[markdown.highlighting]
+theme = "dracula"
+
+[extra]
+author = "Pavel Timofeev"
+github = "ptcodes"
+twitter = "ptcodes"
+disqus = "ptimofeev"
+google_analytics = "UA-105626350-2"
+
+[[taxonomies]]
+name = "categories"
+feed = true
+paginate_by = 10

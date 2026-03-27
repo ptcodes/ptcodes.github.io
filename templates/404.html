@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block title %}404 - Page not found – {{ config.title }}{% endblock title %}
+
+{% block content %}
+<article class="page">
+  <h1>404 - Page not found</h1>
+  <div class="entry">
+    <p>Sorry, we can't find that page that you're looking for. You can try again by going <a href="{{ config.base_url }}/">back to the homepage</a>.</p>
+    <p><a href="{{ config.base_url }}/"><img src="{{ config.base_url }}/images/404.jpg" alt="Constructocat" style="width: 400px;"/></a></p>
+  </div>
+</article>
+{% endblock content %}

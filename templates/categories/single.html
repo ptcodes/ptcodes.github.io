@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}{{ term.name }} – {{ config.title }}{% endblock title %}
+
+{% block content %}
+<article class="page">
+  <h1>{{ term.name }}</h1>
+  <div class="entry">
+    <div id="archives">
+      <div class="archive-group">
+        {% for page in term.pages %}
+        <article class="archive-item">
+          <h4><a href="{{ page.permalink }}">{{ page.title }}</a></h4>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</article>
+{% endblock content %}
